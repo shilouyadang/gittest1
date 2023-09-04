@@ -9,5 +9,6 @@ public class Main {
         System.out.println("master commit");
         System.out.println("gites commit");
         System.out.println("push commit");
+         System.out.println("pull commit");
     }
 }
